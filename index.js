@@ -1,5 +1,5 @@
-function scuberGreetingForFeet(feet){
-  //write your code here
+//write your code here
+function scuberGreetingForFeet(feet){  
   let message ;
   if (feet<=400) {
     message='This one is on me!'
@@ -12,25 +12,14 @@ return message;
 }
 {if (feet>2500){
 message ='No can do.'
-return message;
-
+return message;}}
 }}
 
-}
-
-
-  
-}
-
 function ternaryCheckCity(City){
-  // Write your code here!
+
 if(City=== 'NYC'){
   return"Ok, sounds good."}
-else {return "No go."}
-
-
-
-}
+else {return "No go."}}
 
 function switchOnCharmFromTip(tip){
   switch (tip){
@@ -41,7 +30,5 @@ return'Thank you.'
 default:
 
   return 'Bye.'
-
-  }
-  // Write your code here!
-}
+}}
+  
